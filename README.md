@@ -194,12 +194,12 @@ jupyter notebook notebooks/EDA.ipynb
 python src/train_model.py
 
 
-## Run Prediction
+### Run Prediction
 
 python src/predict.py
 
 
-## Run API
+### Run API
 
 uvicorn api.app:app --reload --port 8011
 
@@ -236,7 +236,7 @@ An interactive dashboard is included to visualize customer churn insights and ma
 
 
 ### 🔹 Customer Engagement & Conversion Funnel
-![Engagement Funnel](images/customer_engagement_and_conversion_funnel.png)
+![Engagement Funnel](images/customer_engagement_and_conversion_funnel_dashboard.png)
 
 
 
@@ -245,7 +245,7 @@ An interactive dashboard is included to visualize customer churn insights and ma
 
 
 
-### 🔹 Analytics View
+###  Analytics View
 ![Analytics View](images/dashboard_analytics_view.png)
 
 
