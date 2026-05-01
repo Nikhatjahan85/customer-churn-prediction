@@ -235,8 +235,12 @@ An interactive dashboard is included to visualize customer churn insights and ma
 
 
 
+
+
 ### 🔹 Customer Engagement & Conversion Funnel
 ![Engagement Funnel](images/customer_engagement_and_conversion_funnel_dashboard.png)
+
+
 
 
 
@@ -245,7 +249,9 @@ An interactive dashboard is included to visualize customer churn insights and ma
 
 
 
-###  Analytics View
+
+
+### 🔹 Analytics View
 ![Analytics View](images/dashboard_analytics_view.png)
 
 
@@ -288,4 +294,5 @@ This project demonstrates how machine learning can be applied to predict custome
 
 Nikhat Jahan
 
-GitHub: https://github.com/Nikhatjahan85⁠
+GitHub: https://github.com/Nikhatjahan85
+⁠
